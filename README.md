@@ -1,2 +1,1 @@
-#Traduzione fatta da werfrag
-Downloadda il tutto, e metti la cartella sui plugin.
+Downloadda il tutto, e metti la cartella sui plugin. Traduzione fatta da werfrag.
